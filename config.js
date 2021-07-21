@@ -1,16 +1,16 @@
-﻿var config = {};
+var config = {};
 
 // Администраторы бота:
-config.admin_list = [1223497947, 1223497947, 1223497947, 1223497947] // ID админов бота
-config.admin_username = 'uzb2oo3'; // Юзернейм админа (рекламного менеджера)
+config.admin_list = [1070846128, 503177249] // ID админов бота
+config.admin_username = 'OnlineWolf'; // Юзернейм админа (рекламного менеджера)
 
 // Системные параметры бота:
 config.proxy = null; // Прокси для соединения с серверами Telegram http://HohrVp:6H8BY2@81.4.108.157:35357
 config.qiwi = 'токен киви сюда'; // API ключ QIWI кошелька (первые 3 галочки доступа)
 config.mongodb = "mongodb://c25981_telepiar_na4u_ru:ZuKkoBiygekig50@mongo1.c25981.h2,mongo2.c25981.h2,mongo3.c25981.h2/c25981_telepiar_na4u_ru?replicaSet=MongoReplica"; // URL MongoDB базы 
-config.token = "1301889252:AAGISby3ZvNLy540LluMzQSs-rdoHc5vlcQ"; // API ключ бота
+config.token = "1868111958:AAFa4RQoOH5LyrrNHyQrKSJj5QKih9t1Z-k"; // API ключ бота
 config.bot_id = 1301889252; // ID бота (первая часть API ключа)
-config.bot_username='LearnMoney24bot'; // Юзернейм бота
+config.bot_username='PHPTesterRobot'; // Юзернейм бота
 config.bot_chat='TElE_PIAR_chat'; // Юзернейм чата бота
 config.bot_views_channel = 'TElE_PIAR_VIEWS'; // Юзернейм канала с просмотрами (бот должен быть в админах!)
 config.bonus_channel = "@TElE_PIAR_UVED" // Канал, на который необходимо подписаться для получения ежедневного бонуса
@@ -64,7 +64,7 @@ config.ref_msg_cost = 5;
 
 // Платёжные системы
 config.qiwi_state = true; // Вкл/откл авто начисления QIWI
-config.qiwi_num = '+998913634599'; // Номер QIWI
+config.qiwi_num = '+998905352214'; // Номер QIWI
 
 config.about_text = '🚀 <b>Добро пожаловать!</b>'
 
